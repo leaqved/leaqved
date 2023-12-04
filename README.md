@@ -10,4 +10,9 @@
 	src="https://github-readme-streak-stats.herokuapp.com?user=leaqved&theme=graywhite&hide_border=true"/>
 </p>
 
+<p align="center">
+	<img alt="Languages" width="500"
+	src="https://github-readme-stats.vercel.app/api/top-langs/?username=leaqved&theme=graywhite&hide_border=true"/>
+</p>
+
 
